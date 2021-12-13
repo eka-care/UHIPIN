@@ -1,0 +1,3 @@
+rootProject.name = "UHIPIN"
+include ':app'
+include ':uhilibrary'
